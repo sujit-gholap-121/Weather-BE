@@ -1,0 +1,354 @@
+{
+    "citiesList": [
+        {
+            "id": 1,
+            "name": "Springfield",
+            "low": -5,
+            "high": 20,
+            "condition": "Sunny"
+        },
+        {
+            "id": 2,
+            "name": "Riverside",
+            "low": 12,
+            "high": 22,
+            "condition": "Cloudy"
+        },
+        {
+            "id": 3,
+            "name": "Lakeview",
+            "low": 8,
+            "high": 18,
+            "condition": "Rain"
+        },
+        {
+            "id": 4,
+            "name": "Fairview",
+            "low": 15,
+            "high": 25,
+            "condition": "Sunny"
+        },
+        {
+            "id": 5,
+            "name": "Georgetown",
+            "low": 9,
+            "high": 19,
+            "condition": "Windy"
+        },
+        {
+            "id": 6,
+            "name": "Arlington",
+            "low": 11,
+            "high": 21,
+            "condition": "Cloudy"
+        },
+        {
+            "id": 7,
+            "name": "Clinton",
+            "low": 13,
+            "high": 30,
+            "condition": "ThunderStorm"
+        },
+        {
+            "id": 8,
+            "name": "Centerville",
+            "low": -3,
+            "high": 20,
+            "condition": "Snow"
+        },
+        {
+            "id": 9,
+            "name": "Franklin",
+            "low": 12,
+            "high": 28,
+            "condition": "Drizzle"
+        },
+        {
+            "id": 10,
+            "name": "Madison",
+            "low": 14,
+            "high": 32,
+            "condition": "SunCloud"
+        },
+        {
+            "id": 11,
+            "name": "Greenville",
+            "low": 7,
+            "high": 17,
+            "condition": "Sunny"
+        },
+        {
+            "id": 12,
+            "name": "Ashland",
+            "low": -1,
+            "high": 19,
+            "condition": "Windy"
+        },
+        {
+            "id": 13,
+            "name": "Bristol",
+            "low": 11,
+            "high": 23,
+            "condition": "Cloudy"
+        },
+        {
+            "id": 14,
+            "name": "Roxbury",
+            "low": 13,
+            "high": 29,
+            "condition": "Snow"
+        },
+        {
+            "id": 15,
+            "name": "Oxford",
+            "low": 8,
+            "high": 18,
+            "condition": "Sunny"
+        },
+        {
+            "id": 16,
+            "name": "Salem",
+            "low": 10,
+            "high": 20,
+            "condition": "Rain"
+        },
+        {
+            "id": 17,
+            "name": "Newton",
+            "low": 12,
+            "high": 22,
+            "condition": "Hail"
+        },
+        {
+            "id": 18,
+            "name": "Dover",
+            "low": 14,
+            "high": 24,
+            "condition": "Windy"
+        },
+        {
+            "id": 19,
+            "name": "Plymouth",
+            "low": 11,
+            "high": 21,
+            "condition": "Sunny"
+        },
+        {
+            "id": 20,
+            "name": "Kingston",
+            "low": 9,
+            "high": 19,
+            "condition": "Snow"
+        },
+        {
+            "id": 21,
+            "name": "Richmond",
+            "low": 7,
+            "high": 17,
+            "condition": "Cloudy"
+        },
+        {
+            "id": 22,
+            "name": "Brighton",
+            "low": -4,
+            "high": 20,
+            "condition": "Rain"
+        },
+        {
+            "id": 23,
+            "name": "Hudson",
+            "low": 12,
+            "high": 25,
+            "condition": "Drizzle"
+        },
+        {
+            "id": 24,
+            "name": "Milton",
+            "low": 8,
+            "high": 18,
+            "condition": "Sunny"
+        },
+        {
+            "id": 25,
+            "name": "Kingston",
+            "low": 11,
+            "high": 21,
+            "condition": "Windy"
+        },
+        {
+            "id": 26,
+            "name": "Rockport",
+            "low": 9,
+            "high": 19,
+            "condition": "Snow"
+        },
+        {
+            "id": 27,
+            "name": "Hamilton",
+            "low": 7,
+            "high": 17,
+            "condition": "Sunny"
+        },
+        {
+            "id": 28,
+            "name": "Hudson",
+            "low": -2,
+            "high": 20,
+            "condition": "Cloudy"
+        },
+        {
+            "id": 29,
+            "name": "Brighton",
+            "low": 12,
+            "high": 22,
+            "condition": "Hail"
+        },
+        {
+            "id": 30,
+            "name": "Manchester",
+            "low": 11,
+            "high": 25,
+            "condition": "Rain"
+        },
+        {
+            "id": 31,
+            "name": "Cambridge",
+            "low": 8,
+            "high": 18,
+            "condition": "Windy"
+        },
+        {
+            "id": 32,
+            "name": "Hamilton",
+            "low": 9,
+            "high": 19,
+            "condition": "Snow"
+        },
+        {
+            "id": 33,
+            "name": "Oxford",
+            "low": 7,
+            "high": 17,
+            "condition": "Cloudy"
+        },
+        {
+            "id": 34,
+            "name": "Salem",
+            "low": 11,
+            "high": 21,
+            "condition": "Sunny"
+        },
+        {
+            "id": 35,
+            "name": "Richmond",
+            "low": 10,
+            "high": 20,
+            "condition": "Rain"
+        },
+        {
+            "id": 36,
+            "name": "Kingston",
+            "low": 12,
+            "high": 22,
+            "condition": "Drizzle"
+        },
+        {
+            "id": 37,
+            "name": "Madison",
+            "low": 8,
+            "high": 18,
+            "condition": "Windy"
+        },
+        {
+            "id": 38,
+            "name": "Franklin",
+            "low": 9,
+            "high": 19,
+            "condition": "Snow"
+        },
+        {
+            "id": 39,
+            "name": "Georgetown",
+            "low": 7,
+            "high": 17,
+            "condition": "Sunny"
+        },
+        {
+            "id": 40,
+            "name": "Ashland",
+            "low": -1,
+            "high": 20,
+            "condition": "Hail"
+        },
+        {
+            "id": 41,
+            "name": "Bristol",
+            "low": 12,
+            "high": 22,
+            "condition": "Cloudy"
+        },
+        {
+            "id": 42,
+            "name": "Newton",
+            "low": 11,
+            "high": 21,
+            "condition": "Rain"
+        },
+        {
+            "id": 43,
+            "name": "Dover",
+            "low": 8,
+            "high": 18,
+            "condition": "Windy"
+        },
+        {
+            "id": 44,
+            "name": "Plymouth",
+            "low": 9,
+            "high": 19,
+            "condition": "Snow"
+        },
+        {
+            "id": 45,
+            "name": "Cambridge",
+            "low": 7,
+            "high": 17,
+            "condition": "Sunny"
+        },
+        {
+            "id": 46,
+            "name": "Rockport",
+            "low": 10,
+            "high": 20,
+            "condition": "Drizzle"
+        },
+        {
+            "id": 47,
+            "name": "Milton",
+            "low": 12,
+            "high": 22,
+            "condition": "Windy"
+        },
+        {
+            "id": 48,
+            "name": "Brighton",
+            "low": 11,
+            "high": 21,
+            "condition": "Cloudy"
+        },
+        {
+            "id": 49,
+            "name": "Manchester",
+            "low": 8,
+            "high": 18,
+            "condition": "Hail"
+        },
+        {
+            "id": 50,
+            "name": "Hudson",
+            "low": 9,
+            "high": 19,
+            "condition": "Sunny"
+        }
+    ]
+}
